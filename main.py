@@ -133,6 +133,6 @@ async def B787(ctx):
 
 keep_alive()
   
-client.run("OTYyNjc1MzM2OTIxODkwODU2.YlK_RQ.-CffKk03mj61MlAif0B2F2RohNg")
+client.run("TOKEN")
 
   
